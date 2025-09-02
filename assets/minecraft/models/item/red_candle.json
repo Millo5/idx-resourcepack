@@ -1,0 +1,48 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/red_candle"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:blueprint/door/right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:blueprint/door/righthandle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:blueprint/door/left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:blueprint/door/lefthandle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:blueprint/blocked_door/doors"
+		}
+	],
+	"animated_java": {
+		"blocked_door": [6],
+		"door": [1, 2, 3, 4, 5]
+	}
+}

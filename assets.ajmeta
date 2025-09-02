@@ -1,0 +1,26 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"blocked_door": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/blocked_door/doors.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/blocked_door/door.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
+		"door": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/door/left.json",
+				"assets/animated_java/models/blueprint/door/lefthandle.json",
+				"assets/animated_java/models/blueprint/door/right.json",
+				"assets/animated_java/models/blueprint/door/righthandle.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/door/door.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		}
+	}
+}

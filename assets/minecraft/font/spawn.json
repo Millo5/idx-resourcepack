@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        
+        {"type":"bitmap", "file":"custom/font/box.png", "ascent":1024, "height":4096, "chars":["a"]}
+        
+    ]
+}

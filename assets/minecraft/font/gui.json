@@ -1,0 +1,16 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        
+        {"type":"bitmap", "file":"custom/gui/backgrounds/row_1.png", "ascent":13, "height":256, "chars":["1"]},
+        {"type":"bitmap", "file":"custom/gui/backgrounds/row_2.png", "ascent":13, "height":256, "chars":["2"]},
+        {"type":"bitmap", "file":"custom/gui/backgrounds/row_3.png", "ascent":13, "height":256, "chars":["3"]},
+        {"type":"bitmap", "file":"custom/gui/backgrounds/row_4.png", "ascent":13, "height":256, "chars":["4"]},
+        {"type":"bitmap", "file":"custom/gui/backgrounds/row_5.png", "ascent":13, "height":256, "chars":["5"]},
+        {"type":"bitmap", "file":"custom/gui/backgrounds/row_6.png", "ascent":13, "height":256, "chars":["6"]},
+        {"type":"space", "advances":{"!":-1,"?":-8}}
+    ]
+}
