@@ -39,10 +39,98 @@
 				"custom_model_data": 6
 			},
 			"model": "animated_java:blueprint/blocked_door/doors"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:blueprint/swordsman/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:blueprint/swordsman/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:blueprint/swordsman/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:blueprint/archer/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:blueprint/archer/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:blueprint/archer/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:blueprint/archer/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "animated_java:blueprint/runeweaver/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "animated_java:blueprint/runeweaver/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "animated_java:blueprint/runeweaver/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "animated_java:blueprint/runeweaver/book"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "animated_java:blueprint/chest/chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "animated_java:blueprint/chest/lid"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "animated_java:blueprint/chest/lock"
 		}
 	],
 	"animated_java": {
+		"archer": [10, 11, 12, 13],
 		"blocked_door": [6],
-		"door": [1, 2, 3, 4, 5]
+		"chest": [18, 19, 20],
+		"door": [1, 2, 3, 4, 5],
+		"runeweaver": [14, 15, 16, 17],
+		"swordsman": [7, 8, 9]
 	}
 }

@@ -1,12 +1,34 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"archer": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/archer/body.json",
+				"assets/animated_java/models/blueprint/archer/head.json",
+				"assets/animated_java/models/blueprint/archer/left_arm.json",
+				"assets/animated_java/models/blueprint/archer/right_arm.json",
+				"assets/animated_java/models/empty.json",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
 		"blocked_door": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
 				"assets/animated_java/models/blueprint/blocked_door/doors.json",
 				"assets/animated_java/models/empty.json",
 				"assets/animated_java/textures/blueprint/blocked_door/door.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
+		"chest": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/chest/chest.json",
+				"assets/animated_java/models/blueprint/chest/lid.json",
+				"assets/animated_java/models/blueprint/chest/lock.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/chest/chest.png",
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
@@ -19,6 +41,28 @@
 				"assets/animated_java/models/blueprint/door/righthandle.json",
 				"assets/animated_java/models/empty.json",
 				"assets/animated_java/textures/blueprint/door/door.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
+		"runeweaver": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/runeweaver/bone.json",
+				"assets/animated_java/models/blueprint/runeweaver/book.json",
+				"assets/animated_java/models/blueprint/runeweaver/left_arm.json",
+				"assets/animated_java/models/blueprint/runeweaver/right_arm.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/runeweaver/book.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
+		"swordsman": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/swordsman/bone.json",
+				"assets/animated_java/models/blueprint/swordsman/left_arm.json",
+				"assets/animated_java/models/blueprint/swordsman/right_arm.json",
+				"assets/animated_java/models/empty.json",
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		}
