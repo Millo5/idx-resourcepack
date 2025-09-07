@@ -1131,7 +1131,8 @@
 							"time": 1.25,
 							"color": -1,
 							"interpolation": "catmullrom",
-							"easing": "linear"
+							"easing": "linear",
+							"easingArgs": []
 						},
 						{
 							"channel": "rotation",

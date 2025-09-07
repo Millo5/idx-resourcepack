@@ -44,6 +44,19 @@
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
+		"fairy": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/fairy/body.json",
+				"assets/animated_java/models/blueprint/fairy/leftbottom.json",
+				"assets/animated_java/models/blueprint/fairy/lefttop.json",
+				"assets/animated_java/models/blueprint/fairy/rightbottom.json",
+				"assets/animated_java/models/blueprint/fairy/righttop.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/fairy/fairy.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
 		"runeweaver": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [

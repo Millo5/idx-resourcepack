@@ -14,123 +14,154 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:blueprint/door/right"
+			"model": "animated_java:blueprint/fairy/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "animated_java:blueprint/door/righthandle"
+			"model": "animated_java:blueprint/fairy/leftbottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "animated_java:blueprint/door/left"
+			"model": "animated_java:blueprint/fairy/rightbottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "animated_java:blueprint/door/lefthandle"
+			"model": "animated_java:blueprint/fairy/lefttop"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "animated_java:blueprint/blocked_door/doors"
+			"model": "animated_java:blueprint/fairy/righttop"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "animated_java:blueprint/swordsman/bone"
+			"model": "animated_java:blueprint/chest/chest"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "animated_java:blueprint/swordsman/right_arm"
+			"model": "animated_java:blueprint/chest/lid"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "animated_java:blueprint/swordsman/left_arm"
+			"model": "animated_java:blueprint/chest/lock"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "animated_java:blueprint/archer/head"
+			"model": "animated_java:blueprint/swordsman/bone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "animated_java:blueprint/archer/body"
+			"model": "animated_java:blueprint/swordsman/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "animated_java:blueprint/archer/right_arm"
+			"model": "animated_java:blueprint/swordsman/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "animated_java:blueprint/archer/left_arm"
+			"model": "animated_java:blueprint/archer/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "animated_java:blueprint/runeweaver/right_arm"
+			"model": "animated_java:blueprint/archer/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "animated_java:blueprint/runeweaver/left_arm"
+			"model": "animated_java:blueprint/archer/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "animated_java:blueprint/runeweaver/bone"
+			"model": "animated_java:blueprint/archer/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "animated_java:blueprint/runeweaver/book"
+			"model": "animated_java:blueprint/runeweaver/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "animated_java:blueprint/chest/chest"
+			"model": "animated_java:blueprint/runeweaver/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "animated_java:blueprint/chest/lid"
+			"model": "animated_java:blueprint/runeweaver/bone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:blueprint/chest/lock"
+			"model": "animated_java:blueprint/runeweaver/book"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "animated_java:blueprint/door/right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "animated_java:blueprint/door/righthandle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "animated_java:blueprint/door/left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "animated_java:blueprint/door/lefthandle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "animated_java:blueprint/blocked_door/doors"
 		}
 	],
 	"animated_java": {
-		"archer": [10, 11, 12, 13],
-		"blocked_door": [6],
-		"chest": [18, 19, 20],
-		"door": [1, 2, 3, 4, 5],
-		"runeweaver": [14, 15, 16, 17],
-		"swordsman": [7, 8, 9]
+		"archer": [13, 14, 15, 16],
+		"blocked_door": [25],
+		"chest": [7, 8, 9],
+		"door": [21, 22, 23, 24],
+		"fairy": [1, 2, 3, 4, 5, 6],
+		"runeweaver": [17, 18, 19, 20],
+		"swordsman": [10, 11, 12]
 	}
 }
