@@ -69,6 +69,15 @@
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
+		"sack": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/sack/bone.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/sack/sack.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
 		"swordsman": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
