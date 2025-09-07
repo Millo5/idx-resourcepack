@@ -327,7 +327,6 @@
 				{
 					"name": "leftbottom",
 					"origin": [-0.05656, 7.13259, 1.49743],
-					"rotation": [0, 0, 0],
 					"color": 0,
 					"configs": {
 						"variants": {}
@@ -345,7 +344,6 @@
 				{
 					"name": "rightbottom",
 					"origin": [0.05656, 7.13259, 1.49743],
-					"rotation": [0, 0, 0],
 					"color": 0,
 					"configs": {
 						"variants": {}
