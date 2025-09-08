@@ -2,7 +2,7 @@
 	"meta": {
 		"format": "animated_java_blueprint",
 		"format_version": "1.7.2",
-		"uuid": "78c83660-4bb3-5be3-d41d-c381a64e0aad",
+		"uuid": "900b6cd3-199f-e9a6-a6d3-34cbc8cf3934",
 		"save_location": "C:\\Users\\23lee\\AppData\\Roaming\\.diamondfire\\resourcepacks\\IDX\\animatedJava\\sack.ajblueprint",
 		"last_used_export_namespace": "sack"
 	},
@@ -45,11 +45,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-2.5, 0, -2.5],
-			"to": [2.5, 5, 2.5],
+			"from": [-4.5, 0, -2.5],
+			"to": [0.5, 5, 2.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0, 1, 0],
+			"origin": [-2, 1, 0],
 			"faces": {
 				"north": {
 					"uv": [0, 0, 5, 5],
@@ -87,11 +87,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-2, 6, -2],
-			"to": [2, 7, 2],
+			"from": [-4, 6, -2],
+			"to": [0, 7, 2],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0, 6, 0],
+			"origin": [-2, 6, 0],
 			"faces": {
 				"north": {
 					"uv": [14, 8, 18, 9],
@@ -129,11 +129,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-1.5, 5, -1.5],
-			"to": [1.5, 6, 1.5],
+			"from": [-3.5, 5, -1.5],
+			"to": [-0.5, 6, 1.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0, 5, 0],
+			"origin": [-2, 5, 0],
 			"faces": {
 				"north": {
 					"uv": [10, 9, 12, 10],
@@ -171,11 +171,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [2.5, 0, -1.5],
-			"to": [3.5, 3, 1.5],
+			"from": [0.5, 0, -1.5],
+			"to": [1.5, 3, 1.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [5, 0, 0],
+			"origin": [3, 0, 0],
 			"faces": {
 				"north": {
 					"uv": [8, 14, 9, 17],
@@ -213,11 +213,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-3.5, 0, -1.5],
-			"to": [-2.5, 3, 1.5],
+			"from": [-5.5, 0, -1.5],
+			"to": [-4.5, 3, 1.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [-1, 0, 0],
+			"origin": [-3, 0, 0],
 			"faces": {
 				"north": {
 					"uv": [14, 15, 15, 18],
@@ -255,11 +255,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-1.5, 0, 2.5],
-			"to": [1.5, 3, 3.5],
+			"from": [-3.5, 0, 2.5],
+			"to": [-0.5, 3, 3.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [2, 0, 3.75],
+			"origin": [0, 0, 3.75],
 			"faces": {
 				"north": {
 					"uv": [5, 14, 8, 17],
@@ -297,11 +297,11 @@
 			"light_emission": 0,
 			"render_order": "default",
 			"allow_mirror_modeling": true,
-			"from": [-1.5, 0, -3.5],
-			"to": [1.5, 3, -2.5],
+			"from": [-3.5, 0, -3.5],
+			"to": [-0.5, 3, -2.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [2, 0, -2.25],
+			"origin": [0, 0, -2.25],
 			"faces": {
 				"north": {
 					"uv": [0, 15, 3, 18],
@@ -335,7 +335,7 @@
 	"outliner": [
 		{
 			"name": "bone",
-			"origin": [0, 0, 0],
+			"origin": [-2, 0, 0],
 			"color": 0,
 			"configs": {
 				"variants": {}

@@ -57,6 +57,24 @@
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
+		"pot": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/pot/root.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/pot/pot.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
+		"pot2": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/pot2/root.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/pot2/pot.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
 		"runeweaver": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
@@ -75,6 +93,16 @@
 				"assets/animated_java/models/blueprint/sack/bone.json",
 				"assets/animated_java/models/empty.json",
 				"assets/animated_java/textures/blueprint/sack/sack.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
+		"sack2": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/sack2/bone.json",
+				"assets/animated_java/models/blueprint/sack2/bone2.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/sack2/sack.png",
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
