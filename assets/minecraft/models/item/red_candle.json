@@ -183,6 +183,42 @@
 				"custom_model_data": 30
 			},
 			"model": "animated_java:blueprint/sack/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "animated_java:blueprint/dummy/root"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "animated_java:blueprint/dummy/leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "animated_java:blueprint/dummy/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "animated_java:blueprint/dummy/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "animated_java:blueprint/dummy/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:blueprint/dummy/head"
 		}
 	],
 	"animated_java": {
@@ -190,6 +226,7 @@
 		"blocked_door": [25],
 		"chest": [7, 8, 9],
 		"door": [21, 22, 23, 24],
+		"dummy": [31, 32, 33, 34, 35, 36],
 		"fairy": [1, 2, 3, 4, 5, 6],
 		"pot": [26],
 		"pot2": [27],

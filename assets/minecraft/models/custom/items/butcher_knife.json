@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "custom/butcher_knife"
+		"1": "custom/items/butcher_knife",
+		"particle": "custom/items/butcher_knife"
 	},
 	"elements": [
 		{
@@ -80,10 +81,14 @@
 			"translation": [0, 4.25, 1.5]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 4.5, 0]
+			"rotation": [5.5, 0, 0],
+			"translation": [0, 4.5, 3],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 4.5, 0]
+			"rotation": [5.5, 0, 0],
+			"translation": [0, 4.5, 3],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
 			"translation": [0, 6.75, 0]

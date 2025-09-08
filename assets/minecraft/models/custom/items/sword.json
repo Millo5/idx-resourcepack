@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/sword",
-		"particle": "custom/sword"
+		"0": "custom/items/sword",
+		"particle": "custom/items/sword"
 	},
 	"elements": [
 		{
@@ -139,6 +139,24 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 94, 0],
+			"translation": [0, 0.5, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 94, 0],
+			"translation": [0, 0.5, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-164.75, 81, -180],
+			"translation": [0, 2, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-164.75, 81, -180],
+			"translation": [0, 2, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"ground": {
 			"rotation": [38, 38, 0],
 			"translation": [0, 4.25, 0]
@@ -147,6 +165,10 @@
 			"rotation": [11.29, 16.32, -48.64],
 			"translation": [-3, -3.25, 0],
 			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"rotation": [81.25, 0, 0],
+			"translation": [0, 0, -6.5]
 		}
 	}
 }

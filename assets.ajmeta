@@ -44,6 +44,20 @@
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
+		"dummy": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/models/blueprint/dummy/body.json",
+				"assets/animated_java/models/blueprint/dummy/head.json",
+				"assets/animated_java/models/blueprint/dummy/leftarm.json",
+				"assets/animated_java/models/blueprint/dummy/leg.json",
+				"assets/animated_java/models/blueprint/dummy/rightarm.json",
+				"assets/animated_java/models/blueprint/dummy/root.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/dummy/dumy.png",
+				"assets/minecraft/models/item/red_candle.json"
+			]
+		},
 		"fairy": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
