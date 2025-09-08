@@ -17,6 +17,7 @@
             "def",
             "ghi"
         ]},
+        {"type":"bitmap", "file":"custom/font/hud_overlay.png", "ascent":214, "height":256, "chars":["."]},
 
         {"type":"space", "advances":{"!":-1, "@": -17}}
 
