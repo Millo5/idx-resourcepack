@@ -33,6 +33,12 @@
                 "custom_model_data": 5
             },
             "model": "rpimages:custom/items/items/infinite_leafed_clover"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "rpimages:custom/items/items/restless_chain"
         }
     ],
     "rpimages": {
@@ -40,6 +46,7 @@
         "rpimages:custom/items/items/coin": 2,
         "rpimages:custom/items/items/large_coin": 3,
         "rpimages:custom/items/items/bat_wing": 4,
-        "rpimages:custom/items/items/infinite_leafed_clover": 5
+        "rpimages:custom/items/items/infinite_leafed_clover": 5,
+        "rpimages:custom/items/items/restless_chain": 6
     }
 }

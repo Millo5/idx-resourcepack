@@ -8,7 +8,8 @@
 		{ "predicate": { "custom_model_data": 2 }, "model": "custom/items/sword" },
 		{ "predicate": { "custom_model_data": 3 }, "model": "custom/items/spear" },
 		{ "predicate": { "custom_model_data": 4 }, "model": "custom/items/butcher_knife" },
-		{ "predicate": { "custom_model_data": 5 }, "model": "custom/items/clydesblade" }
+		{ "predicate": { "custom_model_data": 5 }, "model": "custom/items/clydesblade" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "custom/items/wooden_targe" }
 
 
 	]
