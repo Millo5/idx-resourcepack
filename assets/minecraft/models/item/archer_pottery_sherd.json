@@ -1,0 +1,45 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/archer_pottery_sherd"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "rpimages:custom/items/items/big_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "rpimages:custom/items/items/coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "rpimages:custom/items/items/large_coin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "rpimages:custom/items/items/bat_wing"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "rpimages:custom/items/items/infinite_leafed_clover"
+        }
+    ],
+    "rpimages": {
+        "rpimages:custom/items/items/big_coin": 1,
+        "rpimages:custom/items/items/coin": 2,
+        "rpimages:custom/items/items/large_coin": 3,
+        "rpimages:custom/items/items/bat_wing": 4,
+        "rpimages:custom/items/items/infinite_leafed_clover": 5
+    }
+}

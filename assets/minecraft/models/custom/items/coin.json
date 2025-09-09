@@ -1,0 +1,72 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "custom/items/coin",
+		"particle": "custom/items/coin"
+	},
+	"elements": [
+		{
+			"from": [7, 6, 7.5],
+			"to": [9, 10, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 8, 2, 16], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [8, 0, 10, 8], "texture": "#0"},
+				"up": {"uv": [6, 10, 2, 8], "texture": "#0"},
+				"down": {"uv": [10, 8, 6, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 7, 7.5],
+			"to": [7, 9, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 6, 7]},
+			"faces": {
+				"north": {"uv": [10, 0, 12, 4], "texture": "#0"},
+				"east": {"uv": [2, 10, 4, 14], "texture": "#0"},
+				"south": {"uv": [4, 10, 6, 14], "texture": "#0"},
+				"west": {"uv": [10, 4, 12, 8], "texture": "#0"},
+				"up": {"uv": [14, 6, 12, 4], "texture": "#0"},
+				"down": {"uv": [14, 6, 12, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 7, 7.5],
+			"to": [10, 9, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 7]},
+			"faces": {
+				"north": {"uv": [6, 10, 8, 14], "texture": "#0"},
+				"east": {"uv": [8, 10, 10, 14], "texture": "#0"},
+				"south": {"uv": [10, 8, 12, 12], "texture": "#0"},
+				"west": {"uv": [12, 0, 14, 4], "texture": "#0"},
+				"up": {"uv": [14, 10, 12, 8], "texture": "#0"},
+				"down": {"uv": [12, 12, 10, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [2.68, -25.93, 11.62],
+			"translation": [0, 1, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [2.68, -25.93, 11.62],
+			"translation": [0, 1, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 1, 0]
+		},
+		"gui": {
+			"rotation": [-37.29, -20.45, -13.21]
+		},
+		"head": {
+			"translation": [0, -5.25, -6.75]
+		}
+	}
+}
