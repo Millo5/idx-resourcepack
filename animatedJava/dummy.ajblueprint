@@ -582,6 +582,90 @@
 			},
 			"type": "cube",
 			"uuid": "b113bec8-8780-44f0-d872-6bb525874f56"
+		},
+		{
+			"name": "cube inverted",
+			"box_uv": false,
+			"rescale": false,
+			"locked": false,
+			"light_emission": 0,
+			"render_order": "default",
+			"allow_mirror_modeling": true,
+			"from": [-6, 22, 2],
+			"to": [-11, 18, -2],
+			"autouv": 0,
+			"color": 7,
+			"origin": [-6, 15, 0],
+			"faces": {
+				"north": {
+					"uv": [24, 39, 29, 35],
+					"texture": 0
+				},
+				"east": {
+					"uv": [39, 39, 43, 35],
+					"texture": 0
+				},
+				"south": {
+					"uv": [19, 39, 24, 35],
+					"texture": 0
+				},
+				"west": {
+					"uv": [35, 43, 39, 39],
+					"texture": 0
+				},
+				"up": {
+					"uv": [34, 35, 39, 39],
+					"texture": 0
+				},
+				"down": {
+					"uv": [29, 39, 34, 35],
+					"texture": 0
+				}
+			},
+			"type": "cube",
+			"uuid": "bc6ed40d-2b58-1119-46a2-9ac58b38d736"
+		},
+		{
+			"name": "cube inverted",
+			"box_uv": false,
+			"rescale": false,
+			"locked": false,
+			"light_emission": 0,
+			"render_order": "default",
+			"allow_mirror_modeling": true,
+			"from": [11, 22, 2],
+			"to": [6, 18, -2],
+			"autouv": 0,
+			"color": 7,
+			"origin": [11, 15, 0],
+			"faces": {
+				"north": {
+					"uv": [8, 40, 13, 36],
+					"texture": 0
+				},
+				"east": {
+					"uv": [40, 4, 44, 0],
+					"texture": 0
+				},
+				"south": {
+					"uv": [36, 8, 41, 4],
+					"texture": 0
+				},
+				"west": {
+					"uv": [39, 43, 43, 39],
+					"texture": 0
+				},
+				"up": {
+					"uv": [36, 12, 41, 16],
+					"texture": 0
+				},
+				"down": {
+					"uv": [36, 12, 41, 8],
+					"texture": 0
+				}
+			},
+			"type": "cube",
+			"uuid": "7a759757-f95d-c730-0ab3-496cbdded984"
 		}
 	],
 	"outliner": [
@@ -599,7 +683,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
-			"selected": true,
+			"selected": false,
 			"children": [
 				"783fd165-ac74-534b-056b-c7fc037de80b",
 				"e6987f68-9c23-34d0-45e0-878d808d2320",
@@ -655,7 +739,7 @@
 									"visibility": true,
 									"autouv": 0,
 									"selected": false,
-									"children": ["9b64f4d1-c868-10e6-5220-ce7548e493b4", "08c24b7f-95a3-6b40-ed29-1a154af3c9f1"]
+									"children": ["9b64f4d1-c868-10e6-5220-ce7548e493b4", "08c24b7f-95a3-6b40-ed29-1a154af3c9f1", "bc6ed40d-2b58-1119-46a2-9ac58b38d736"]
 								},
 								{
 									"name": "rightarm",
@@ -672,7 +756,7 @@
 									"visibility": true,
 									"autouv": 0,
 									"selected": false,
-									"children": ["c7238e67-b9a7-2ddf-d2ae-a13a6644f667", "7c93155a-27a3-354e-c469-58b3b69feb84"]
+									"children": ["c7238e67-b9a7-2ddf-d2ae-a13a6644f667", "7c93155a-27a3-354e-c469-58b3b69feb84", "7a759757-f95d-c730-0ab3-496cbdded984"]
 								},
 								{
 									"name": "head",
