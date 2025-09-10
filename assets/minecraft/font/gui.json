@@ -11,6 +11,8 @@
         {"type":"bitmap", "file":"custom/gui/backgrounds/row_4.png", "ascent":13, "height":256, "chars":["4"]},
         {"type":"bitmap", "file":"custom/gui/backgrounds/row_5.png", "ascent":13, "height":256, "chars":["5"]},
         {"type":"bitmap", "file":"custom/gui/backgrounds/row_6.png", "ascent":13, "height":256, "chars":["6"]},
+        {"type":"bitmap", "file":"custom/gui/backgrounds/item_detail.png", "ascent":13, "height":256, "chars":["7"]},
+        
         {"type":"space", "advances":{"!":-1,"?":-8}}
     ]
 }
