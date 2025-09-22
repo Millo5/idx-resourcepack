@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"1": "animated_java:blueprint/runeweaver/book",
+		"0": "animated_java:blueprint/runeweaver/book",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -20,27 +20,27 @@
 			"faces": {
 				"north": {
 					"uv": [7, 5, 8, 5.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [7, 0, 12, 0.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [7, 5.5, 8, 6],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [7, 0.5, 12, 1],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [7, 5, 6, 0],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [7, 5, 6, 10],
-					"texture": "#1"
+					"texture": "#0"
 				}
 			}
 		},
@@ -55,27 +55,27 @@
 			"faces": {
 				"north": {
 					"uv": [7, 3, 10, 3.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [7, 1, 11.5, 1.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [7, 3.5, 10, 4],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [7, 1.5, 11.5, 2],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [3, 4.5, 0, 0],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [6, 0, 3, 4.5],
-					"texture": "#1"
+					"texture": "#0"
 				}
 			}
 		},
@@ -90,27 +90,27 @@
 			"faces": {
 				"north": {
 					"uv": [7, 4, 10, 4.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [7, 2, 11.5, 2.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [7, 4.5, 10, 5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [7, 2.5, 11.5, 3],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [3, 9, 0, 4.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [6, 4.5, 3, 9],
-					"texture": "#1"
+					"texture": "#0"
 				}
 			}
 		}

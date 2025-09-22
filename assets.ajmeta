@@ -9,6 +9,7 @@
 				"assets/animated_java/models/blueprint/archer/left_arm.json",
 				"assets/animated_java/models/blueprint/archer/right_arm.json",
 				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/archer/archer.png",
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
@@ -98,6 +99,7 @@
 				"assets/animated_java/models/blueprint/runeweaver/right_arm.json",
 				"assets/animated_java/models/empty.json",
 				"assets/animated_java/textures/blueprint/runeweaver/book.png",
+				"assets/animated_java/textures/blueprint/runeweaver/runeweaver.png",
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		},
@@ -127,6 +129,7 @@
 				"assets/animated_java/models/blueprint/swordsman/left_arm.json",
 				"assets/animated_java/models/blueprint/swordsman/right_arm.json",
 				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/swordsman/swordsman.png",
 				"assets/minecraft/models/item/red_candle.json"
 			]
 		}

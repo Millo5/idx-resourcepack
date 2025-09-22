@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:custom/skins/gray_excelsus",
+		"0": "animated_java:blueprint/swordsman/swordsman",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

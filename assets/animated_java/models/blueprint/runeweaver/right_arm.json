@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:custom/skins/gray_clairvoyant",
+		"1": "animated_java:blueprint/runeweaver/runeweaver",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -15,27 +15,27 @@
 			"faces": {
 				"north": {
 					"uv": [11, 5, 11.75, 8],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [10, 5, 11, 8],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [12.75, 5, 13.5, 8],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [11.75, 5, 12.75, 8],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [11.75, 5, 11, 4],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [12.5, 4, 11.75, 5],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -45,27 +45,27 @@
 			"faces": {
 				"north": {
 					"uv": [11, 9, 11.75, 12],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [10, 9, 11, 12],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [12.75, 9, 13.5, 12],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [11.75, 9, 12.75, 12],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [11.75, 9, 11, 8],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [12.5, 8, 11.75, 9],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}
