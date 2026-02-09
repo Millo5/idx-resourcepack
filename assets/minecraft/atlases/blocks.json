@@ -2,23 +2,8 @@
 	"sources": [
 		{
 			"type": "directory",
-			"source": "custom/blocks",
-			"prefix": "custom/blocks/"
-		},
-		{
-			"type": "directory",
-			"source": "custom/items",
-			"prefix": "custom/items/"
-		},
-		{
-			"type": "directory",
 			"source": "blueprint",
 			"prefix": "blueprint/"
-		},
-		{
-			"type": "directory",
-			"source": "skins",
-			"prefix": "skins/"
 		}
 	]
 }

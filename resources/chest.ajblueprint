@@ -3,7 +3,7 @@
 		"format": "animated_java_blueprint",
 		"format_version": "1.7.2",
 		"uuid": "b97c7739-c88f-5c8f-08e3-5e9ae42ba771",
-		"save_location": "C:\\Users\\23lee\\AppData\\Roaming\\.diamondfire\\resourcepacks\\IDX\\resources\\chest.ajblueprint",
+		"save_location": "C:\\Users\\23lee\\AppData\\Roaming\\PrismLauncher\\instances\\1.21.8\\minecraft\\resourcepacks\\IDX\\resources\\chest.ajblueprint",
 		"last_used_export_namespace": "chest"
 	},
 	"blueprint_settings": {
@@ -14,11 +14,11 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "none",
-		"target_minecraft_versions": ["1.21.0"],
+		"target_minecraft_versions": ["1.21.5"],
 		"display_item": "minecraft:red_candle",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"resource_pack": "C:\\Users\\23lee\\AppData\\Roaming\\.diamondfire\\resourcepacks\\IDX",
+		"resource_pack": "C:\\Users\\23lee\\AppData\\Roaming\\PrismLauncher\\instances\\1.21.8\\minecraft\\resourcepacks\\IDX",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "",
 		"summon_commands": "",

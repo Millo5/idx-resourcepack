@@ -16,38 +16,53 @@
 		"blocked_door": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
+				"assets/animated_java/items/blueprint/blocked_door/doors.json",
+				"assets/animated_java/items/empty.json",
 				"assets/animated_java/models/blueprint/blocked_door/doors.json",
 				"assets/animated_java/models/empty.json",
-				"assets/animated_java/textures/blueprint/blocked_door/door.png",
-				"assets/minecraft/models/item/red_candle.json"
+				"assets/animated_java/textures/blueprint/blocked_door/door.png"
 			]
 		},
 		"chest": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
+				"assets/animated_java/items/blueprint/chest/chest.json",
+				"assets/animated_java/items/blueprint/chest/lid.json",
+				"assets/animated_java/items/blueprint/chest/lock.json",
+				"assets/animated_java/items/empty.json",
 				"assets/animated_java/models/blueprint/chest/chest.json",
 				"assets/animated_java/models/blueprint/chest/lid.json",
 				"assets/animated_java/models/blueprint/chest/lock.json",
 				"assets/animated_java/models/empty.json",
-				"assets/animated_java/textures/blueprint/chest/chest.png",
-				"assets/minecraft/models/item/red_candle.json"
+				"assets/animated_java/textures/blueprint/chest/chest.png"
 			]
 		},
 		"door": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
+				"assets/animated_java/items/blueprint/door/left.json",
+				"assets/animated_java/items/blueprint/door/lefthandle.json",
+				"assets/animated_java/items/blueprint/door/right.json",
+				"assets/animated_java/items/blueprint/door/righthandle.json",
+				"assets/animated_java/items/empty.json",
 				"assets/animated_java/models/blueprint/door/left.json",
 				"assets/animated_java/models/blueprint/door/lefthandle.json",
 				"assets/animated_java/models/blueprint/door/right.json",
 				"assets/animated_java/models/blueprint/door/righthandle.json",
 				"assets/animated_java/models/empty.json",
-				"assets/animated_java/textures/blueprint/door/door.png",
-				"assets/minecraft/models/item/red_candle.json"
+				"assets/animated_java/textures/blueprint/door/door.png"
 			]
 		},
 		"dummy": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
+				"assets/animated_java/items/blueprint/dummy/body.json",
+				"assets/animated_java/items/blueprint/dummy/head.json",
+				"assets/animated_java/items/blueprint/dummy/leftarm.json",
+				"assets/animated_java/items/blueprint/dummy/leg.json",
+				"assets/animated_java/items/blueprint/dummy/rightarm.json",
+				"assets/animated_java/items/blueprint/dummy/root.json",
+				"assets/animated_java/items/empty.json",
 				"assets/animated_java/models/blueprint/dummy/body.json",
 				"assets/animated_java/models/blueprint/dummy/head.json",
 				"assets/animated_java/models/blueprint/dummy/leftarm.json",
@@ -55,8 +70,7 @@
 				"assets/animated_java/models/blueprint/dummy/rightarm.json",
 				"assets/animated_java/models/blueprint/dummy/root.json",
 				"assets/animated_java/models/empty.json",
-				"assets/animated_java/textures/blueprint/dummy/dumy.png",
-				"assets/minecraft/models/item/red_candle.json"
+				"assets/animated_java/textures/blueprint/dummy/dumy.png"
 			]
 		},
 		"fairy": {

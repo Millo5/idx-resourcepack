@@ -1,0 +1,55 @@
+{
+	"model": {
+	  "type": "minecraft:composite",
+	  "models": [
+
+		{
+			"type": "minecraft:select", "property": "minecraft:custom_model_data", "index": 0,
+			"cases": [
+				{ "when": "item", "model": {
+					"type": "minecraft:select", "property": "minecraft:custom_model_data", "index": 1,
+					"cases": [
+						{ "when": "melee-weapon", "model": {
+							"type": "minecraft:select", "property": "minecraft:custom_model_data", "index": 2,
+							"cases": [
+								{ "when": "travellers-blade", "model": { "type": "minecraft:model", "model": "custom/items/sword" } },
+								{ "when": "weighted-javelin", "model": { "type": "minecraft:model", "model": "minecraft:item/iron_shovel" } },
+								{ "when": "wooden-shiv", "model": { "type": "minecraft:model", "model": "minecraft:item/wooden_sword" } },
+								{ "when": "wooden-spear", "model": { "type": "minecraft:model", "model": "custom/items/spear" } }
+							],
+							"fallback": { "type": "minecraft:model", "model": "minecraft:item/wooden_sword" }
+						} },
+						{ "when": "ranged-weapon", "model": { "type": "minecraft:model", "model": "minecraft:item/bow" } },
+						{ "when": "arrow", "model": { "type": "minecraft:model", "model": "minecraft:item/arrow" } },
+						{ "when": "boots", "model": { "type": "minecraft:model", "model": "minecraft:item/leather_boots" } },
+						{ "when": "leggings", "model": { "type": "minecraft:model", "model": "minecraft:item/leather_leggings" } },
+						{ "when": "chestplate", "model": { "type": "minecraft:model", "model": "minecraft:item/leather_chestplate" } },
+						{ "when": "helmet", "model": { "type": "minecraft:model", "model": "minecraft:item/leather_helmet" } },
+						{ "when": "material", "model": { "type": "minecraft:model", "model": "minecraft:item/bone" } },
+						{ "when": "unique", "model": { "type": "minecraft:model", "model": "minecraft:item/string" } },
+						{ "when": "enchantment", "model": { "type": "minecraft:model", "model": "minecraft:item/book" } },
+						{ "when": "consumable", "model": { "type": "minecraft:model", "model": "minecraft:item/apple" } },
+						{ "when": "trinket", "model": { "type": "minecraft:model", "model": "minecraft:item/gold_nugget" } }
+					],
+					"fallback": { "type": "minecraft:model", "model": "minecraft:block/stone" }
+				} },
+				{ "when": "attribute", "model": {
+					"type": "minecraft:select", "property": "minecraft:custom_model_data", "index": 1,
+					"cases": [
+						{ "when": "tarnished-golden-knife", "model": { "type": "minecraft:model", "model": "minecraft:item/golden_sword" } }
+					],
+					"fallback": { "type": "minecraft:model", "model": "minecraft:block/diorite" }
+				} }
+			]
+		},
+		
+		{
+			"type": "minecraft:model",
+			"model": "custom/items/rarity",
+			"tints": [
+			  { "type": "minecraft:constant", "value": 13913678 }
+			]
+		}
+	  ]
+	}
+  }

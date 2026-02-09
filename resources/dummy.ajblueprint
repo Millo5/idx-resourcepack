@@ -3,7 +3,7 @@
 		"format": "animated_java_blueprint",
 		"format_version": "1.7.2",
 		"uuid": "f6b858e3-25fb-30b6-7dc3-e168820b0269",
-		"save_location": "C:\\Users\\23lee\\AppData\\Roaming\\.diamondfire\\resourcepacks\\IDX\\resources\\dummy.ajblueprint",
+		"save_location": "C:\\Users\\23lee\\AppData\\Roaming\\PrismLauncher\\instances\\1.21.8\\minecraft\\resourcepacks\\IDX\\resources\\dummy.ajblueprint",
 		"last_used_export_namespace": "dummy"
 	},
 	"blueprint_settings": {
@@ -14,11 +14,11 @@
 		"enable_plugin_mode": false,
 		"resource_pack_export_mode": "raw",
 		"data_pack_export_mode": "none",
-		"target_minecraft_versions": ["1.21.0"],
+		"target_minecraft_versions": ["1.21.4"],
 		"display_item": "minecraft:red_candle",
 		"custom_model_data_offset": 0,
 		"enable_advanced_resource_pack_settings": false,
-		"resource_pack": "C:\\Users\\23lee\\AppData\\Roaming\\.diamondfire\\resourcepacks\\IDX",
+		"resource_pack": "C:\\Users\\23lee\\AppData\\Roaming\\PrismLauncher\\instances\\1.21.8\\minecraft\\resourcepacks\\IDX",
 		"enable_advanced_data_pack_settings": false,
 		"data_pack": "",
 		"summon_commands": "",
@@ -738,7 +738,7 @@
 									"locked": false,
 									"visibility": true,
 									"autouv": 0,
-									"selected": true,
+									"selected": false,
 									"children": ["9b64f4d1-c868-10e6-5220-ce7548e493b4", "08c24b7f-95a3-6b40-ed29-1a154af3c9f1", "bc6ed40d-2b58-1119-46a2-9ac58b38d736"]
 								},
 								{
